@@ -1,0 +1,48 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/FPGA/ModelSim10/examples
+vex_cnt
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 OL^A:^WY_DNZc0fUKFoW;1
+Iz0N@9mWRJaz2Em?l=QZab2
+Z1 dF:/FPGA/MyProjects/ex_cnt/sim
+w1559656067
+8F:/FPGA/MyProjects/ex_cnt/design/ex_cnt.v
+FF:/FPGA/MyProjects/ex_cnt/design/ex_cnt.v
+L0 1
+Z2 OL;L;10.4;61
+!s108 1559656073.253000
+!s107 F:/FPGA/MyProjects/ex_cnt/design/ex_cnt.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/FPGA/MyProjects/ex_cnt/design/ex_cnt.v|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtb_ext_cnt
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 jEAgHiR95d`@ZmJ<mWmW20
+Ijf39zFFFY]j<[74]ONIA^1
+R1
+w1559654699
+8F:/FPGA/MyProjects/ex_cnt/sim/tb_ex_cnt.v
+FF:/FPGA/MyProjects/ex_cnt/sim/tb_ex_cnt.v
+L0 3
+R2
+!s108 1559656073.376000
+!s107 F:/FPGA/MyProjects/ex_cnt/sim/tb_ex_cnt.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/FPGA/MyProjects/ex_cnt/sim/tb_ex_cnt.v|
+!i113 0
+R3
