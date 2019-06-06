@@ -1,15 +1,15 @@
-F:/FPGA/MyProjects/ex_cnt/design/ex_cnt.v {1 {vlog -work work -vopt -stats=none F:/FPGA/MyProjects/ex_cnt/design/ex_cnt.v
-Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
--- Compiling module ex_cnt
-
-Top level modules:
-	ex_cnt
-
-} {} {}} F:/FPGA/MyProjects/ex_cnt/sim/tb_ex_cnt.v {1 {vlog -work work -vopt -stats=none F:/FPGA/MyProjects/ex_cnt/sim/tb_ex_cnt.v
+F:/FPGA/MyProjects/ex_cnt/sim/tb_ex_cnt.v {1 {vlog -work work -vopt -stats=none F:/FPGA/MyProjects/ex_cnt/sim/tb_ex_cnt.v
 Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
 -- Compiling module tb_ext_cnt
 
 Top level modules:
 	tb_ext_cnt
+
+} {} {}} F:/FPGA/MyProjects/ex_cnt/design/ex_cnt.v {1 {vlog -work work -vopt -stats=none F:/FPGA/MyProjects/ex_cnt/design/ex_cnt.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ex_cnt
+
+Top level modules:
+	ex_cnt
 
 } {} {}}

@@ -8,11 +8,17 @@ module ex_case(
 reg  [2:0]  cnt_7;
 
 
+// 不同功能的寄存器写在不同的always块里面，可读性强，可维护
+
 always @(posedge sclk or negedge rst_n) begin
-    
+    if(rst_n == 1'b0) begin
+        cnt_7 = 3'd0;
+    end else begin
+        cnt_7 <= cnt_7 + 1'b1;
+    end   
 end
 
-// 不同功能的寄存器写在不同的always块里面，可读性强，可维护
+
 always @(posedge sclk or negedge rst_n) begin
     if(rst_n = 1'b0) begin
         o_data <= 8'd0;
@@ -30,6 +36,11 @@ always @(posedge sclk or negedge rst_n) begin
             3'd2: begin
                     o_data <= 3'd5;
                     o_dv <= 1'b1;
+                  end
+            default: 
+                  begin
+                    o_data <= 3'd0;
+                    o_dv <= 1'b0;
                   end
         endcase
     end

@@ -1,0 +1,15 @@
+C:/ZCJ/MyProjects/StudyVerilog/ex_cnt/sim/tb_ex_cnt.v {1 {vlog -work work -vopt C:/ZCJ/MyProjects/StudyVerilog/ex_cnt/sim/tb_ex_cnt.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module tb_ext_cnt
+
+Top level modules:
+	tb_ext_cnt
+
+} {} {}} C:/ZCJ/MyProjects/StudyVerilog/ex_cnt/design/ex_cnt.v {1 {vlog -work work -vopt C:/ZCJ/MyProjects/StudyVerilog/ex_cnt/design/ex_cnt.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module ex_cnt
+
+Top level modules:
+	ex_cnt
+
+} {} {}}
