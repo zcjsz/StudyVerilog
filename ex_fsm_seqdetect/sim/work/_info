@@ -1,0 +1,45 @@
+m255
+K4
+z2
+13
+cModel Technology
+dC:\ZCJ\Modelsim10.2\examples
+!i10d 8192
+!i10e 25
+!i10f 100
+vex_fsm_sd
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+IkCKObYITUiXNDGQd?nz[j0
+Z1 dC:\ZCJ\MyProjects\StudyVerilog\ex_fsm_seqdetect\sim
+w1560585865
+8C:/ZCJ/MyProjects/StudyVerilog/ex_fsm_seqdetect/design/ex_fsm_sd.v
+FC:/ZCJ/MyProjects/StudyVerilog/ex_fsm_seqdetect/design/ex_fsm_sd.v
+L0 1
+Z2 OL;L;10.2;57
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 [9o3:i`EQ[:PbSRD5HH2@0
+!s108 1560585871.314000
+!s107 C:/ZCJ/MyProjects/StudyVerilog/ex_fsm_seqdetect/design/ex_fsm_sd.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/ZCJ/MyProjects/StudyVerilog/ex_fsm_seqdetect/design/ex_fsm_sd.v|
+vtb_ex_fsm_sd
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+IPBbdeQDO6j`=n?MZnBJP70
+R1
+w1560585688
+8C:/ZCJ/MyProjects/StudyVerilog/ex_fsm_seqdetect/sim/tb_ex_fsm_sd.v
+FC:/ZCJ/MyProjects/StudyVerilog/ex_fsm_seqdetect/sim/tb_ex_fsm_sd.v
+L0 3
+R2
+R3
+!s85 0
+!s100 d=ma=cN8QS6z?gNAXDQl80
+!s108 1560585806.204000
+!s107 C:/ZCJ/MyProjects/StudyVerilog/ex_fsm_seqdetect/sim/tb_ex_fsm_sd.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/ZCJ/MyProjects/StudyVerilog/ex_fsm_seqdetect/sim/tb_ex_fsm_sd.v|
+!i10b 1
