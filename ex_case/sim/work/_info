@@ -3,43 +3,44 @@ K4
 z2
 13
 cModel Technology
-dC:\ZCJ\MyProjects\StudyVerilog\ex_cnt\sim
+Z0 dC:\ZCJ\MyProjects\StudyVerilog\ex_cnt\sim
 !i10d 8192
 !i10e 25
 !i10f 100
 vex_case
-Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
 r1
-!s85 0
 31
-Ia=Q9CO59>S3Y1_3B;Rn[m2
-Z1 dC:\ZCJ\MyProjects\StudyVerilog\ex_case\sim
-w1560267905
-8C:/ZCJ/MyProjects/StudyVerilog/ex_case/design/ex_case.v
-FC:/ZCJ/MyProjects/StudyVerilog/ex_case/design/ex_case.v
+Z2 Ia=Q9CO59>S3Y1_3B;Rn[m2
+Z3 dC:\ZCJ\MyProjects\StudyVerilog\ex_case\sim
+Z4 w1560267905
+Z5 8C:/ZCJ/MyProjects/StudyVerilog/ex_case/design/ex_case.v
+Z6 FC:/ZCJ/MyProjects/StudyVerilog/ex_case/design/ex_case.v
 L0 1
-Z2 OL;L;10.2;57
-Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
-!s100 8nTnCe;2GST6=k142;^K[2
-!s90 -reportprogress|300|-work|work|-vopt|C:/ZCJ/MyProjects/StudyVerilog/ex_case/design/ex_case.v|
-!s108 1560269713.174000
-!s107 C:/ZCJ/MyProjects/StudyVerilog/ex_case/design/ex_case.v|
+Z7 OL;L;10.2;57
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z9 !s100 8nTnCe;2GST6=k142;^K[2
+Z10 !s90 -reportprogress|300|-work|work|-vopt|C:/ZCJ/MyProjects/StudyVerilog/ex_case/design/ex_case.v|
+Z11 !s108 1560269713.174000
+Z12 !s107 C:/ZCJ/MyProjects/StudyVerilog/ex_case/design/ex_case.v|
+!s85 0
 !i10b 1
 vtb_ex_case
-Z4 V`JN@9S9cnhjKRR_L]QIcM3
-r1
-31
-Iz=lie`[T>zkP:]Yl;`@n_3
-R1
-w1560269707
-8C:/ZCJ/MyProjects/StudyVerilog/ex_case/sim/tb_ex_case.v
-FC:/ZCJ/MyProjects/StudyVerilog/ex_case/sim/tb_ex_case.v
-L0 3
-R2
-R3
-!s85 0
-!s90 -reportprogress|300|-work|work|-vopt|C:/ZCJ/MyProjects/StudyVerilog/ex_case/sim/tb_ex_case.v|
+!s110 1560528215
 !i10b 1
-!s100 @Ae@ke>YMlLkHn51^Kna:2
-!s108 1560269713.457000
+Z13 !s100 =ngcm6F@1j4AL=<^TBkK:2
+Z14 IiComJ1Kn^zde:=KQiGo3f3
+R1
+R3
+w1560348673
+Z15 8C:/ZCJ/MyProjects/StudyVerilog/ex_case/sim/tb_ex_case.v
+Z16 FC:/ZCJ/MyProjects/StudyVerilog/ex_case/sim/tb_ex_case.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1560528215.259000
 !s107 C:/ZCJ/MyProjects/StudyVerilog/ex_case/sim/tb_ex_case.v|
+Z17 !s90 -reportprogress|300|-work|work|-vopt|C:/ZCJ/MyProjects/StudyVerilog/ex_case/sim/tb_ex_case.v|
+R8

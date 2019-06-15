@@ -1,0 +1,45 @@
+m255
+K4
+z2
+13
+cModel Technology
+dC:\ZCJ\MyProjects\StudyVerilog\ex_case\sim
+!i10d 8192
+!i10e 25
+!i10f 100
+vex_fsm
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+I?zQY7^@Ek2MNn6:=?]>[I0
+Z1 dC:\ZCJ\MyProjects\StudyVerilog\ex_fsm\sim
+w1560528689
+8C:/ZCJ/MyProjects/StudyVerilog/ex_fsm/design/ex_fsm.v
+FC:/ZCJ/MyProjects/StudyVerilog/ex_fsm/design/ex_fsm.v
+L0 1
+Z2 OL;L;10.2;57
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 :lXDI45m<Qe<8>7VJ_`R33
+!s108 1560528717.994000
+!s107 C:/ZCJ/MyProjects/StudyVerilog/ex_fsm/design/ex_fsm.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/ZCJ/MyProjects/StudyVerilog/ex_fsm/design/ex_fsm.v|
+!s85 0
+!i10b 1
+vtb_ex_fsm
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+IZIS5eeB09^0@Yf`S`>_S63
+R1
+w1560529089
+8C:/ZCJ/MyProjects/StudyVerilog/ex_fsm/sim/tb_ex_fsm.v
+FC:/ZCJ/MyProjects/StudyVerilog/ex_fsm/sim/tb_ex_fsm.v
+L0 3
+R2
+!s90 -reportprogress|300|-work|work|-vopt|C:/ZCJ/MyProjects/StudyVerilog/ex_fsm/sim/tb_ex_fsm.v|
+R3
+!i10b 1
+!s100 gh<KGP`9]fg?6CDkg;KNc2
+!s108 1560529100.088000
+!s107 C:/ZCJ/MyProjects/StudyVerilog/ex_fsm/sim/tb_ex_fsm.v|
