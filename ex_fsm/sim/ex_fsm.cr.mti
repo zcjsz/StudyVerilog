@@ -1,8 +1,1 @@
-C:/ZCJ/MyProjects/StudyVerilog/ex_fsm/design/ex_fsm.v {1 {vlog -work work -vopt C:/ZCJ/MyProjects/StudyVerilog/ex_fsm/design/ex_fsm.v
-Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
--- Compiling module ex_fsm
 
-Top level modules:
-	ex_fsm
-
-} {} {}}

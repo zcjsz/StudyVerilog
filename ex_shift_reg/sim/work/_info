@@ -1,0 +1,47 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:\ZCJ\MyProjects\StudyVerilog\ex_fsm\sim
+!i10d 8192
+!i10e 25
+!i10f 100
+vex_shift_reg
+Z1 !s100 jER`K8d55bRzU^TzQJFV31
+Z2 I24XDJzS=>mJ5=LZ2ImgJ?2
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+Z4 dC:\ZCJ\MyProjects\StudyVerilog\ex_shift_reg\sim
+Z5 w1560698855
+Z6 8C:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/design/ex_shift_reg.v
+Z7 FC:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/design/ex_shift_reg.v
+L0 5
+Z8 OL;L;10.2;57
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|-vopt|C:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/design/ex_shift_reg.v|
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z11 !s110 1560699208
+!i10b 1
+!s85 0
+Z12 !s108 1560699208.701000
+Z13 !s107 C:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/design/ex_shift_reg.v|
+vtb_ex_shift_reg
+!s110 1560699209
+!i10b 1
+Z14 !s100 in9GSQU4zMh[PW43]?7@I2
+Z15 Ie;1mDjJF3fN9P5Y7_K;Va0
+R3
+R4
+w1560699193
+Z16 8C:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/sim/tb_ex_shift_reg.v
+Z17 FC:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/sim/tb_ex_shift_reg.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1560699209.103000
+!s107 C:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/sim/tb_ex_shift_reg.v|
+Z18 !s90 -reportprogress|300|-work|work|-vopt|C:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/sim/tb_ex_shift_reg.v|
+R10

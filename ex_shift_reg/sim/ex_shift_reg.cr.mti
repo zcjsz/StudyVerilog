@@ -1,0 +1,15 @@
+C:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/sim/tb_ex_shift_reg.v {1 {vlog -work work -vopt C:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/sim/tb_ex_shift_reg.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module tb_ex_shift_reg
+
+Top level modules:
+	tb_ex_shift_reg
+
+} {} {}} C:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/design/ex_shift_reg.v {1 {vlog -work work -vopt C:/ZCJ/MyProjects/StudyVerilog/ex_shift_reg/design/ex_shift_reg.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module ex_shift_reg
+
+Top level modules:
+	ex_shift_reg
+
+} {} {}}
